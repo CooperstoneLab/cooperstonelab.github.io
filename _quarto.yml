@@ -1,13 +1,13 @@
 project:
   type: website
   output-dir: docs
-  # resources: 
-  #   - CNAME  
+  resources:
+    - CNAME
 
 website:
   title: ""
   favicon: "img/spectra-plus.png"
-  # site-url: https://www.cooperstonelab.com
+  site-url: https://www.cooperstonelab.com
   back-to-top-navigation: true
   navbar:
     logo: "img/spectra-plus.png"
@@ -74,8 +74,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-# resources:
-#   - CNAME
 
 

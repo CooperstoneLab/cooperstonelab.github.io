@@ -1,0 +1,272 @@
+---
+title: "Current lab members"
+---
+
+# Graduate students
+## JL (Jordan) Hartman
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of JL Hartman"}
+knitr::include_graphics("img/people/jl.png")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2019 - present
+
+**Education:**  
+
+-   B.S. Biology, Wingate University (Wingate, NC)
+-   M.S., Horticultural Science, North Carolina State University (Raleigh, NC)
+
+**Research focus**: Metabolic and sensory implications of creating high steroidal alkaloid tomatoes
+
+**Hometown:** Salisbury, NC, USA
+
+**Contact:** hartman dot 635 at osu dot edu
+:::
+:::
+
+## Maria Sholola
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Maria Sholola"}
+knitr::include_graphics("img/people/maria.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2020 - present
+
+**Education:**  
+
+-   B.S. Chemistry, Loyola University (Chicago, IL)
+
+**Research focus:** Understanding absorption, metabolism, and bioactivity of tomato and soy phytochemicals
+
+**Non-work interests:** dancing (urban, Afrobeats, and more recently ballet), running and biking scenic routes (hasn’t found one that tops Chicago’s lakefront trail yet), and traveling
+
+**Hometown:** Chicago, IL, USA
+
+**Contact:** sholola dot 1 at osu dot edu
+:::
+:::
+
+## Daniel Quiroz Moreno
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Daniel Quiroz-Moreno"}
+knitr::include_graphics("img/people/daniel-quiroz.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2021 - present
+
+**Education:**  
+
+-   B.S. Biotechnology, Ikiam University (Tena, Ecuador)
+
+**Research focus:** Multi-omic integration for crop nutritional improvement, with a focus on developing informatic tools
+
+**Non-work interests:** photography, mountain biking
+
+**Hometown:** Riobamba, Ecuador
+
+**Contact:** quirozmoreno dot 1 at osu dot edu
+
+**Personal website:** [https://danielquiroz97.gitlab.io](https://danielquiroz97.gitlab.io)
+
+:::
+:::
+
+
+## Daniel Do
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Daniel Do"}
+knitr::include_graphics("img/people/daniel-do.jpeg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2021 - present
+
+**Education:**  
+
+-   B.S. Chemistry & Biochemistry and Molecular Biology, Stockton University (Stockton, NJ)
+
+**Research focus:** Elucidating the in vivo relevance of tomato steroidal alkaloids: an understanding of their absorption, metabolism, accumulation, and bioefficacy
+
+**Non-work interests:** running, cooking, climbing, roller skating
+
+**Hometown:** Galloway, NJ, USA
+
+**Contact:** do dot 226 at osu dot edu
+
+
+:::
+:::
+
+## Aaron Wiedemer
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Aaron Wiedemer"}
+knitr::include_graphics("img/people/aaron.png")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2022 - present
+
+**Education:**  
+
+-   B.S. Food Science (minor in Jazz Performance), Penn State University (University Park, PA)
+
+**Research focus:** Modifying and analyzing health beneficial compounds from crops
+
+**Non-work interests:** 
+
+**Hometown:** Chatham, NJ, USA
+
+**Contact:** wiedemer dot 7 at osu dot edu
+
+:::
+:::
+
+## Lydia Balogh
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Lydia Balogh"}
+knitr::include_graphics("img/people/lydia.png")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2022 - present
+
+**Education:**  
+
+-   B.S. Biology, minor in English Language and Literature, University of Western Ontario (London, Ontario, Canada)
+
+**Research focus:** Apple improvement using genomics, metabolomics, and sensory science
+
+**Non-work interests:** 
+
+**Hometown:** London, Ontario, Canada
+
+**Contact:** balogh dot 67 at osu dot edu
+
+:::
+:::
+
+# Visiting scientists
+## Victoria Hermes de Vargas
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Victoria Hermes de Vargas"}
+knitr::include_graphics("img/people/victoria.JPG")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Chemical Engineering, Universidade Federal do Rio Grande do Sul 
+
+**Years in the lab**: 2024 - present
+
+**Education:**  
+
+-   B.S. Chemical Engineering, Federal University of Santa Maria, RS, Brazil
+-   M.S. Chemical Engineering, Federal University of Rio Grande do Sul, RS, Brazil
+
+**Research focus:** Understanding chemical changes resulting from application of novel processing technologies using metabolomics
+
+**Non-work interests:** reading, watching tv shows, listening to music, biking, and exploring nature.
+
+**Hometown:** Foz do Iguaçu, Paraná, Brazil
+
+**Contact:** hermesdevargas dot 1 at osu dot edu
+
+:::
+:::
+
+# Undergraduate students
+## Bryce Reiter
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Bryce Reiter"}
+knitr::include_graphics("img/people/bryce.jpeg")
+```
+:::
+
+::: g-col-6
+**Degree**: B.S.
+
+**Program:** Chemistry
+
+**Years in the lab**: 2024 - present
+
+**Non-work interests:** hiking, reading, and cooking
+
+**Hometown:** Republic, OH, USA
+
+**Contact:** reiter dot 121 at osu dot edu
+
+:::
+:::
+
+# Lab pets
+## Nacho Cooperstone
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Nacho Cooperstone"}
+knitr::include_graphics("img/people/nacho.jpeg")
+```
+:::
+
+::: g-col-6
+**Degree**: Working on basic obedience
+
+**Years in the lab**: 2018 - present
+
+**Interests:** snoring during Zooms, rolling around in the dirt after a bath, high fat dairy, splooting, taking walks as long as its not too hot
+
+**Hometown:** Columbus, OH, USA
+
+:::
+:::

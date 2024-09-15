@@ -1,0 +1,100 @@
+---
+title: "Teaching"
+---
+
+Below you can find a list of courses Jess teaches/taught and a little bit about each one.
+
+# Metabolomics, Principles and Practice (HCS/FST/HN 7600, 3 credits)
+
+```{r echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("img/teaching/metabolomics.png")
+```
+
+This course aims to introduce students to the principles and practice of metabolomics. Metabolomics is the study of the totality of small molecules existing within a system. We will focus here on the application of metabolomics to plant, food, nutrition and health-related research, although the concepts are applicable to other disciplines. Each part of the metabolomics workflow will be covered, with hands-on experience in sample preparation, data collection, data processing and analysis, modeling, contextualization, and validation. The course will also contain a journal-club component. You can find a syllabus [here](syllabi/Metabolomics7600_Syllabus_2023.pdf).
+
+-   Taught: Spring 2019, 2020, 2021, 2022, 2023, (2025)
+-   Beginning 2025, co-instructed by Jessica Cooperstone, Rachel Kopec, and Emmanuel Hatzakis.
+-   From 2020-2023, co-instructed by Jessica Cooperstone, Rachel Kopec, Emmanuel Hatzakis, and Matthias Klein.
+-   In 2019, co-instructed by Jessica Cooperstone, Rachel Kopec, Emmanuel Hatzakis, Matthias Klein, Ewy Mathé, and Devin Peterson.
+
+# Data Visualization in R (HCS 7100, 2 credits)
+
+```{r echo = FALSE, out.width="30%", fig.align='center'}
+knitr::include_graphics("img/teaching/data-viz.png")
+```
+
+This course aims to introduce students to the principles and practice of data visualization.
+Students will learn fundamental principles of data visualization and create figures that
+appropriately and ethically represent their data. Data visualizations will be created in the R
+programming environment, using tools including the grammar of graphics implemented in
+ggplot2. In the process of creating visualizations, students will also become familiar with data
+handling and wrangling in R. You can find course material at our course website [https://www.rdataviz.com/](https://www.rdataviz.com/) and a syllabus [here](syllabi/DataVisualizationSyllabus_HCS7100_AU24.pdf).
+
+-   Taught: Autumn 2020, 2022, 2023, 2024
+
+# Food and Nutritional Toxicology (FST 7620, 2 credits)
+
+```{r echo = FALSE, out.width="30%", fig.align='center'}
+knitr::include_graphics("img/teaching/food-tox.jpeg")
+```
+
+Basic principles of food and nutritional toxicology with primary emphasis on food components and food toxins. The course will cover an overview of absorption, metabolism and excretion of xenobiotics, allergenic and toxic constituents in plant, animal, marine and fungal origin, the role of diet and nutrients in mutagenesis and carcinogenesis, food processing induced toxins and the procedures, laws and regulation of safety assessment of foods including food additives, environmental contaminants, pesticides, antibiotic residues and dietary supplements. You can find a course syllabus [here](syllabi/FoodTox_Syllabus2023.pdf).
+
+-   Taught: Spring 2019, 2021, 2023, (2025)
+-   From 2021 - present, co-instructed with Morgan (Cichon) Jablonka (Abbott Nutrition)
+
+# Phytochemicals and Human Health: Crops to the Clinic (HCS/FST/HN 7830, 3 credits)
+
+```{r echo = FALSE, out.width="30%", fig.align='center'}
+knitr::include_graphics("img/teaching/phytochem.jpeg")
+```
+
+This course covers the function and control of phytochemicals in plants, the function of phytochemicals in human health, delivery of phytochemicals through foods in the diet, strategies when designing studies examining foods for health, and policy and sustainability considerations. You can find a syllabus [here](syllabi/PhytochemicalsSyllabi_AU21.pdf).,
+
+-   Taught: Autumn 2021 and 2023
+-   In 2021, co-instructed by Jessica Cooperstone and Joe Scheerens.
+
+# Code Club (for fun)
+
+```{r echo = FALSE, out.width="30%", fig.align='center'}
+knitr::include_graphics("img/teaching/codeclub.png")
+```
+
+[OSU Code Club](https://osu-codeclub.github.io/) is a regularly occurring, interactive, online gathering to improve coding skills. We aim for a supportive and fun culture of learning together, and hope to offer something to participants at any experience level. 
+
+Code Club is currently co-organized by Jessica Cooperstone, Jelmer Poelstra, and Horacio Lopez-Nicora. From 2020-2023, Code Club was co-organized by Jessica Cooperstone, Jelmer Poelstra, Michael Broe, Mike Sovic, and Stephen Opiyo.
+
+-   Taught: Ongoing (since Autumn 2020), weekly during the semesters
+
+# Multi-omics Integration for Crop Improvement (a journal club, HCS 8830, 1 credit)
+
+```{r echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("img/teaching/journal-club.gif")
+```
+
+-   Taught: Autumn 2023
+-   Co-instructed by Jessica Cooperstone, Jonathan Fresnedo Ramírez, and David Francis
+
+# Plant metabolomics (a journal club, HCS 8830, 1 credit)
+
+```{r echo = FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("img/teaching/journal-club.gif")
+```
+
+-   Taught: Autumn 2018
+
+# Nexus of Food & Nutritional Security, Hunger and Sustainability (FST 6194, 3 credits)
+
+```{r echo = FALSE, out.width="30%", fig.align='center'}
+knitr::include_graphics("img/teaching/nexus.png")
+```
+
+Provides recent scientific advances in knowledge of food & nutritional security,
+hunger and establishes their relationship to sustainability and food systems. The course will
+broaden student education by engaging a diverse group of students to think critically about food
+sustainability issues and encourages students to study agricultural sciences by showing students
+the local relevance and global importance of these issues. Morever, experienced,
+multidisciplinary faculty will provide key real-world perspectives and cutting edge teaching tools
+coupled with experiential learning opportunities. You can find a syllabus [here](syllabi/fnhs-2017-syllabus.pdf).
+
+-   Taught: Autumn 2017 as part of a USDA Higher Education Challenge grant at OSU (Jessica Cooperstone), Texas A&M University (both College Station and Kingsville, Bhimu Patil and Greta Schuster, respectively), and Purdue University (Neil Knobloch)

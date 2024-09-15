@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs
+  # resources: 
+  #   - CNAME  
+
+website:
+  title: ""
+  favicon: "img/spectra-plus.png"
+  # site-url: https://www.cooperstonelab.com
+  back-to-top-navigation: true
+  navbar:
+    logo: "img/spectra-plus.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/about.qmd
+        text: About
+      - text: People
+        menu:
+        - text: Jessica Cooperstone
+          href: pages/jess.qmd
+        - text: Current lab members
+          href: pages/current.qmd
+        - text: Lab alumni
+          href: pages/alumni.qmd
+      - href: pages/research.qmd
+        text: Research          
+      - href: pages/teaching.qmd
+        text: Teaching   
+      - href: pages/analytical.qmd
+        text: Analytical work          
+      - href: pages/fun-stuff.qmd
+        text: Fun stuff 
+      - href: pages/join-us.qmd
+        text: Join us?
+                
+        
+  # right:
+    #   - text: Sign up!
+    #     href: 
+    #   - text: About
+    #     href: about.qmd
+    #   - icon: rss
+    #     href: index.xml
+    tools:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?hl=en&user=d-FkQNQAAAAJ&view_op=list_works
+      - icon: twitter
+        href: https://twitter.com/CooperstoneLab
+      - icon: person-workspace
+        href: https://hcs.osu.edu/our-people/dr-jessica-cooperstone
+      - icon: envelope-at
+        href: mailto:cooperstone.1@osu.edu    
+      - icon: github
+        menu:
+          - text: CooperstoneLab
+            url:  https://github.com/CooperstoneLab
+          - text: jcooperstone
+            url:  https://github.com/jcooperstone
+          - text: osu-codeclub
+            url:  https://github.com/osu-codeclub
+
+  # footer
+  page-footer:
+    border: true
+    left: "Created with RStudio and [Quarto](https://quarto.org/) <br> © Jessica Cooperstone, 2024, License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) <br> [Want to make a website like this one?](https://osu-codeclub.github.io/#category=website)"
+    right:
+      - icon: github
+        href: https://github.com/cooperstonelab/new-lab-website
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+# resources:
+#   - CNAME
+
+

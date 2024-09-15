@@ -1,0 +1,31 @@
+---
+title: "Jessica Cooperstone, Ph.D."
+---
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Jessica Cooperstone"}
+knitr::include_graphics("img/people/jess.jpg")
+```
+:::
+
+::: g-col-6
+**Education:**  
+
+-   B.S. Food Science, Cornell University
+-   Ph.D. Food Science and Technology, The Ohio State University
+-   Postdoctoral Research, Food Science and Technology, The Ohio State University
+
+**Hometown:** Westbury, NY, USA
+
+**Non-work interests:** gardening, making wheel thrown pottery, NY Times games, pizza
+
+**Contact:** cooperstone dot 1 at osu dot edu
+:::
+:::
+
+**Quick bio:** Dr. Jessica Cooperstone is an Associate Professor in the departments of [Horticulture and Crop Science](https://hcs.osu.edu/) and [Food Science and Technology](https://fst.osu.edu/) at The Ohio State University, and is the Faculty Lead for Crop and Food Improvement in the [Foods for Health](https://foodsforhealth.osu.edu/) Initiative. She and her team are interested in understanding the chemical basis for the health benefits associated with fruit and vegetable rich diets. From fundamental studies in crops, to nutrition-based clinical trials, her group works across the plant-food-nutrition-health continuum. Jess and her team are located at the interface of plant, food and nutrition sciences, and utilize bioinformatics based approaches with the goal of conducting the basic and applied research needed to make healthier fruits and vegetables.
+
+A full list of publications can be found [here](https://scholar.google.com/citations?user=d-FkQNQAAAAJ&hl=en).
+
+Click [here](cv/JLCooperstone_CV_20240215.pdf) for a full CV

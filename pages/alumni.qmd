@@ -1,0 +1,273 @@
+---
+title: "Lab alumni"
+---
+
+# Graduate students
+
+## Matt Teegarden, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Matt Teegarden"}
+knitr::include_graphics("img/people/matt.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2015 - 2018
+
+**Education:**  
+
+-   B.S. Food Science and Technology, The Ohio State University (Columbus, OH)
+-   M.S. Food Science and Technology, The Ohio State University (Columbus, OH)
+
+**Dissertation title**: Understanding the stability, biological impact, and exposure markers of black raspberries and strawberries using an untargeted metabolomics approach
+
+**Post-lab activities:** After he completed his Ph.D., Matt was briefly a postdoc with the Cooperstone lab, then was a Scientist at Abbott Nutrition, and is currently a Senior Researcher with the Foods for Health Initiative at Ohio State.
+
+**Hometown:** Cincinnati, OH, USA
+
+:::
+:::
+
+## Michael Dzakovich, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Michael Dzakovich"}
+knitr::include_graphics("img/people/michael.JPG")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2015 - 2020
+
+**Education:**  
+
+-   B.S. Horticultural Science, Purdue University (West Lafayette, IN)
+-   M.S. Horticultural Science, Purdue University (West Lafayette, IN)
+
+**Dissertation title**: Exploring metabolic and genetic diversity in tomato secondary metabolites
+
+**Post-lab activities:** After he completed his Ph.D., Michael was a postdoctoral researcher with Mario Ferruzzi at North Carolina State University’s Plants for Human Health Institute, and is currently a [Research Plant Physiologist](https://www.ars.usda.gov/people-locations/person?person-id=56413) with the USDA-Agricultural Research Service/Assistant Professor of Pediatric Nutrition with the Baylor College of Medicine.
+
+**Hometown:** Northbrook, IL, USA
+
+:::
+:::
+
+## Emma Bilbrey, M.S.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Emma Bilbrey"}
+knitr::include_graphics("img/people/emma.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: M.S.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2018 - 2020
+
+**Education:**  
+
+-   B.S. Biology, Union University (Jackson, TN)
+
+**Thesis title**: Seeding multi-omic improvement of apple
+
+**Post-lab activities:** After she completed her M.S., Emma started her very own flower farm, [Hickory Hills Flower Farm](https://www.hickoryhillsflowerfarm.com/) in Valparaiso, IN which grows extremely beautiful flowers and makes amazing arrangements. She also for a while worked part-time for the Cooperstone lab as a data scientist.
+
+**Hometown:** Valparaiso, IN, USA
+
+:::
+:::
+
+## Jenna (Miller) Pietrowski M.S.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Jenna Miller"}
+knitr::include_graphics("img/people/jenna.jpeg")
+```
+:::
+
+::: g-col-6
+**Degree**: M.S.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2018 - 2020
+
+**Education:**  
+
+-   B.S. Food Science, Purdue University (West Lafayette, IN)
+
+**Thesis title**: Discovering potential urinary biomarkers of tomato consumption using untargeted metabolomics
+
+**Post-lab activities:** After she completed her M.S., Jenna took a position as a Beverages Discovery and Applications Scientist at PepsiCo Innovations in Barrington, IL, and she now works as a Product Development Scientist at Mars Inc in Chicago, IL.
+
+**Hometown:** Westchester, OH
+
+:::
+:::
+
+## Mallory (Goggans) Wallenfang M.S.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Mallory Goggans"}
+knitr::include_graphics("img/people/mallory.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: M.S.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2018 - 2020
+
+**Education:**  
+
+-   B.S. Food Science, University of Minnesota (Saint Paul, MN)
+
+**Thesis title**: Elucidating tomato steroidal glycoalkaloid metabolism and effects of consumption on the gut microbiome in a pig model
+
+**Post-lab activities:** After she completed her M.S., Mallory took a position as a Research and Development Scientist at NutriScience Innovations in Chicago, IL, and now she works for Mars Inc as an Analytical Scientist in Chicago, IL.
+
+**Hometown:** Appleton, WI
+
+:::
+:::
+
+# Visitng scientists
+
+## Giovana Mercali, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Giovana Mercali"}
+knitr::include_graphics("img/people/giovana.png")
+```
+:::
+
+::: g-col-6
+
+**Program:** Visiting Professor, Food Science and Technology
+
+**Years in the lab**: 2023
+
+**Education:**  
+
+-   B.S. Food Engineering, Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+-   M.S. Chemical Engineering, Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+-   Ph.D. Chemical Engineering, Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+
+**Research focus**: Applying metabolomics to assess food quality after novel food processing technologies
+
+**Post-lab activities:** Assistant Professor, Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+
+**Non-work interests:** Brazilian soccer (especially Grêmio Foot-Ball Porto Alegrense, the best team of southern Brazil), meditation and mindfulness, exploring nature (parks, beaches, mountains)
+
+:::
+:::
+
+## Lara Etzbach, Ph.D.
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Lara Etzbach"}
+knitr::include_graphics("img/people/lara.jpeg")
+```
+:::
+
+::: g-col-6
+
+**Program:** Visiting Scholar, Food Chemistry, University of Bonn, Germany
+
+**Years in the lab**: 2019
+
+**Research focus**: Applying metabolomics to assess food quality after novel food processing technologies
+
+
+:::
+:::
+
+# Undergraduate students
+
+## Rachel Barrett
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Rachel Barrett"}
+knitr::include_graphics("img/people/rachel.jpg")
+```
+:::
+
+::: g-col-6
+
+**Program:** B.S., Food Science and Technology
+
+**Years in the lab**: 2023-2024
+
+**Research focus**: Understanding the relationship between anthocyanins, tannins, and phenolics on apple sensory traits.
+
+**Post-lab activities:** Product Development Scientist at General Mills, Minneapolis, MN.
+
+**Hometown:** Rockford, OH, USA
+
+:::
+:::
+
+## Avery Brewer
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Avery Brewer"}
+knitr::include_graphics("img/people/avery.jpeg")
+```
+:::
+
+::: g-col-6
+
+**Program:** B.S., Sustainable Plant Systems, Plant Biosciences
+
+**Years in the lab**: 2020-2022
+
+**Research focus**: Understanding tomato steroidal alkaloid response to mechanical wounding in tomato
+
+**Post-lab activities:** After she completed her dual B.S. and B.A. in Sustainable Plant Sciences and Philosophy, respectively, Avery joined the lab of Anca Delgato in the Ph.D. program for Biological Design at Arizona State University.
+
+**Hometown:** Hudson, OH, USA
+
+:::
+:::
+## Annalise Celano
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Annalise Celano"}
+knitr::include_graphics("img/people/annalise.jpg")
+```
+:::
+
+::: g-col-6
+
+**Program:** B.S., Health Promotion, Nutrition, and Exercise Science
+
+**Years in the lab**: 2017-2019
+
+**Research focus**: Understanding the chemical basis for chemoprevention with black raspberries using mouse models
+
+
+:::
+:::

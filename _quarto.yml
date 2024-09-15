@@ -7,7 +7,7 @@ project:
 website:
   title: ""
   favicon: "img/spectra-plus.png"
-  site-url: https://www.cooperstonelab.com
+  site-url: http://www.cooperstonelab.com
   back-to-top-navigation: true
   navbar:
     logo: "img/spectra-plus.png"

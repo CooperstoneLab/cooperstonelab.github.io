@@ -1,1 +1,1 @@
-Sitemap: https://www.cooperstonelab.com/sitemap.xml
+Sitemap: http://www.cooperstonelab.com/sitemap.xml

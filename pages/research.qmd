@@ -247,7 +247,7 @@ We are working to understand the profile and concentrations of tomato alkaloids 
 :::
 
 ::: {.column width="50%"}
-We are working to understand the profile and concentrations of tomato alkaloids across germplasm, their genetic control in fruits, and their absorption, distribution, metabolism, excretion, and health impact in those who enjoy tomatoes.
+We are working to create methods to enable the analysis of carotenoids in plants, foods, and in vivo after their consumption. Additionally, we are interested in how food processing affects carotenoid concentration and profiles, and how factors like plant genetics and meal composition affect absorption and metabolism of carotenoids. 
 :::
 :::
 

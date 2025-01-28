@@ -3,34 +3,6 @@ title: "Current lab members"
 ---
 
 # Graduate students
-## JL (Jordan) Hartman
-
-::: grid
-::: g-col-6
-```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of JL Hartman"}
-knitr::include_graphics("img/people/jl.png")
-```
-:::
-
-::: g-col-6
-**Degree**: Ph.D.
-
-**Program:** Horticulture and Crop Science
-
-**Years in the lab**: 2019 - present
-
-**Education:**  
-
--   B.S. Biology, Wingate University (Wingate, NC)
--   M.S., Horticultural Science, North Carolina State University (Raleigh, NC)
-
-**Research focus**: Metabolic and sensory implications of creating high steroidal alkaloid tomatoes
-
-**Hometown:** Salisbury, NC, USA
-
-**Contact:** hartman dot 635 at osu dot edu
-:::
-:::
 
 ## Maria Sholola
 
@@ -190,38 +162,6 @@ knitr::include_graphics("img/people/lydia.png")
 :::
 :::
 
-# Visiting scientists
-## Victoria Hermes de Vargas
-
-::: grid
-::: g-col-6
-```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Victoria Hermes de Vargas"}
-knitr::include_graphics("img/people/victoria.JPG")
-```
-:::
-
-::: g-col-6
-**Degree**: Ph.D.
-
-**Program:** Chemical Engineering, Universidade Federal do Rio Grande do Sul 
-
-**Years in the lab**: 2024 - present
-
-**Education:**  
-
--   B.S. Chemical Engineering, Federal University of Santa Maria, RS, Brazil
--   M.S. Chemical Engineering, Federal University of Rio Grande do Sul, RS, Brazil
-
-**Research focus:** Understanding chemical changes resulting from application of novel processing technologies using metabolomics
-
-**Non-work interests:** reading, watching tv shows, listening to music, biking, and exploring nature.
-
-**Hometown:** Foz do Iguaçu, Paraná, Brazil
-
-**Contact:** hermesdevargas dot 1 at osu dot edu
-
-:::
-:::
 
 # Undergraduate students
 ## Bryce Reiter
@@ -245,6 +185,31 @@ knitr::include_graphics("img/people/bryce.jpeg")
 **Hometown:** Republic, OH, USA
 
 **Contact:** reiter dot 121 at osu dot edu
+
+:::
+:::
+
+## Julianne Littin
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Julianne Littin"}
+knitr::include_graphics("img/people/julianne.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: B.S.
+
+**Program:** Sustainable Plant Systems
+
+**Years in the lab**: 2025 - present
+
+**Non-work interests:** reading, strength training, being outdoors, and learning new skills
+
+**Hometown:** Toledo, OH, USA
+
+**Contact:** littin dot 4 at osu dot edu
 
 :::
 :::

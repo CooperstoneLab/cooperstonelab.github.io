@@ -24,7 +24,9 @@ Here is some work we’ve published on the topic though a comprehensive list of 
 
 <summary>Click the arrow to see a list of papers on phytochemicals and their analysis</summary>
 
--   **Sholola MJ**, **Goggans ML**, **Dzakovich MP**, Francis DM, Jacobi SK, ***Cooperstone JL***. Discovery of steroidal alkaloid metabolites and their accumulation in pigs after short-term tomato consumption. bioRxiv, February 8, 2024. <https://doi.org/10.1101/2024.02.05.579005>
+-   **Sholola MJ**, **Goggans ML**, **Dzakovich MP**, Francis DM, Jacobi SK, ***Cooperstone JL***. Discovery of steroidal alkaloid metabolites and their accumulation in pigs after short-term tomato consumption. Food Chem, 2025:463(3);141346 [https://doi.org/10.1016/j.foodchem.2024.141346](https://doi.org/10.1016/j.foodchem.2024.141346)
+
+    -   Also published as a [preprint](https://doi.org/10.1101/2024.02.05.579005) on bioRxiv
 
 -   Pinho L, Lima PM, Fang F, ***Cooperstone JL***, Favaro-Trindade CS, Campanella OH. Effect of extrusion process conditions on extrudates enriched with carotenoids encapsulated by different methods. Int J of Biol Macromol, 2024;267:131200. <https://doi.org/10.1016/j.ijbiomac.2024.131200>
 

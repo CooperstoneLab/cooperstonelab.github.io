@@ -14,11 +14,11 @@ knitr::include_graphics("img/people/jess.jpg")
 
 -   B.S. Food Science, Cornell University
 -   Ph.D. Food Science and Technology, The Ohio State University
--   Postdoctoral Research, Food Science and Technology, The Ohio State University
+-   Postdoctoral Researcher, Food Science and Technology, The Ohio State University
 
 **Hometown:** Westbury, NY, USA
 
-**Non-work interests:** gardening, making wheel thrown pottery, NY Times games, pizza
+**Non-work interests:** gardening, making wheel thrown pottery, NY Times games, Geoguessr, pizza
 
 **Contact:** cooperstone dot 1 at osu dot edu
 :::
@@ -28,4 +28,4 @@ knitr::include_graphics("img/people/jess.jpg")
 
 A full list of publications can be found [here](https://scholar.google.com/citations?user=d-FkQNQAAAAJ&hl=en).
 
-Click [here](cv/JLCooperstone_CV_20240215.pdf) for a full CV
+Click [here](cv/JLCooperstone_CV_20240215.pdf) for a full CV though it's might be a little bit out of date.

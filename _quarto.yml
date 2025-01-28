@@ -59,7 +59,7 @@ website:
           - text: jcooperstone
             url:  https://github.com/jcooperstone
           - text: osu-codeclub
-            url:  https://github.com/osu-codeclub
+            url:  https://github.com/osu-codeclub/osu-codeclub.github.io
 
   # footer
   page-footer:
@@ -67,7 +67,7 @@ website:
     left: "Created with RStudio and [Quarto](https://quarto.org/) <br> © Jessica Cooperstone, 2024, License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) <br> [Want to make a website like this one?](https://osu-codeclub.github.io/#category=website)"
     right:
       - icon: github
-        href: https://github.com/cooperstonelab/new-lab-website
+        href: https://github.com/CooperstoneLab/cooperstonelab.github.io
         
 format:
   html:

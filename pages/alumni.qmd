@@ -4,12 +4,14 @@ title: "Lab alumni"
 
 # Graduate students
 
-## Matt Teegarden, Ph.D.
+## Ph.D.
+
+### Maria Sholola, Ph.D.
 
 ::: grid
 ::: g-col-6
-```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Matt Teegarden"}
-knitr::include_graphics("img/people/matt.jpg")
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Maria Sholola"}
+knitr::include_graphics("img/people/maria.jpg")
 ```
 :::
 
@@ -18,53 +20,23 @@ knitr::include_graphics("img/people/matt.jpg")
 
 **Program:** Food Science and Technology
 
-**Years in the lab**: 2015 - 2018
+**Years in the lab**: 2020 - 2025
 
 **Education:**  
 
--   B.S. Food Science and Technology, The Ohio State University (Columbus, OH)
--   M.S. Food Science and Technology, The Ohio State University (Columbus, OH)
+-   B.S. Chemistry, Loyola University (Chicago, IL)
 
-**Dissertation title**: Understanding the stability, biological impact, and exposure markers of black raspberries and strawberries using an untargeted metabolomics approach
+**Research focus:** Understanding absorption, metabolism, and bioactivity of tomato and soy phytochemicals
 
-**Post-lab activities:** After he completed his Ph.D., Matt was briefly a postdoc with the Cooperstone lab, then was a Scientist at Abbott Nutrition, and is currently a Senior Researcher with the Foods for Health Initiative at Ohio State.
+**Non-work interests:** dancing (urban, Afrobeats, and more recently ballet), running and biking scenic routes (hasn’t found one that tops Chicago’s lakefront trail yet), and traveling
 
-**Hometown:** Cincinnati, OH, USA
+**Hometown:** Chicago, IL, USA
 
+**Contact:** sholola dot 1 at osu dot edu
 :::
 :::
 
-## Michael Dzakovich, Ph.D.
-
-::: grid
-::: g-col-6
-```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Michael Dzakovich"}
-knitr::include_graphics("img/people/michael.JPG")
-```
-:::
-
-::: g-col-6
-**Degree**: Ph.D.
-
-**Program:** Horticulture and Crop Science
-
-**Years in the lab**: 2015 - 2020
-
-**Education:**  
-
--   B.S. Horticultural Science, Purdue University (West Lafayette, IN)
--   M.S. Horticultural Science, Purdue University (West Lafayette, IN)
-
-**Dissertation title**: Exploring metabolic and genetic diversity in tomato secondary metabolites
-
-**Post-lab activities:** After he completed his Ph.D., Michael was a postdoctoral researcher with Mario Ferruzzi at North Carolina State University’s Plants for Human Health Institute, and is currently a [Research Plant Physiologist](https://www.ars.usda.gov/people-locations/person?person-id=56413) with the USDA-Agricultural Research Service/Assistant Professor of Pediatric Nutrition with the Baylor College of Medicine.
-
-**Hometown:** Northbrook, IL, USA
-
-:::
-:::
-
-## JL (Jordan) Hartman
+### JL (Jordan) Hartman
 
 ::: grid
 ::: g-col-6
@@ -95,7 +67,69 @@ knitr::include_graphics("img/people/jl.png")
 :::
 :::
 
-## Emma Bilbrey, M.S.
+### Michael Dzakovich, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Michael Dzakovich"}
+knitr::include_graphics("img/people/michael.JPG")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2015 - 2020
+
+**Education:**  
+
+-   B.S. Horticultural Science, Purdue University (West Lafayette, IN)
+-   M.S. Horticultural Science, Purdue University (West Lafayette, IN)
+
+**Dissertation title**: Exploring metabolic and genetic diversity in tomato secondary metabolites
+
+**Post-lab activities:** After he completed his Ph.D., Michael was a postdoctoral researcher with Mario Ferruzzi at North Carolina State University’s Plants for Human Health Institute, and is currently a [Research Plant Physiologist](https://www.ars.usda.gov/people-locations/person?person-id=56413) with the USDA-Agricultural Research Service/Assistant Professor of Pediatric Nutrition with the Baylor College of Medicine.
+
+**Hometown:** Northbrook, IL, USA
+
+:::
+:::
+
+### Matt Teegarden, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Matt Teegarden"}
+knitr::include_graphics("img/people/matt.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2015 - 2018
+
+**Education:**  
+
+-   B.S. Food Science and Technology, The Ohio State University (Columbus, OH)
+-   M.S. Food Science and Technology, The Ohio State University (Columbus, OH)
+
+**Dissertation title**: Understanding the stability, biological impact, and exposure markers of black raspberries and strawberries using an untargeted metabolomics approach
+
+**Post-lab activities:** After he completed his Ph.D., Matt was briefly a postdoc with the Cooperstone lab, then was a Scientist at Abbott Nutrition, and then a Senior Researcher with the Foods for Health Initiative at Ohio State. Matt is currently a Regulatory Affairs Manager at Abbott Nutrition in Columbus OH.
+
+**Hometown:** Cincinnati, OH, USA
+
+:::
+:::
+
+## M.S.
+
+### Emma Bilbrey, M.S.
 
 ::: grid
 ::: g-col-6
@@ -124,7 +158,7 @@ knitr::include_graphics("img/people/emma.jpg")
 :::
 :::
 
-## Jenna (Miller) Pietrowski M.S.
+### Jenna (Miller) Pietrowski M.S.
 
 ::: grid
 ::: g-col-6
@@ -153,7 +187,7 @@ knitr::include_graphics("img/people/jenna.jpeg")
 :::
 :::
 
-## Mallory (Goggans) Wallenfang M.S.
+### Mallory (Goggans) Wallenfang M.S.
 
 ::: grid
 ::: g-col-6
@@ -181,6 +215,8 @@ knitr::include_graphics("img/people/mallory.jpg")
 
 :::
 :::
+
+
 
 # Visitng scientists
 

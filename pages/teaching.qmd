@@ -30,7 +30,7 @@ programming environment, using tools including the grammar of graphics implement
 ggplot2. In the process of creating visualizations, students will also become familiar with data
 handling and wrangling in R. You can find course material at our course website [https://www.rdataviz.com/](https://www.rdataviz.com/) and a syllabus [here](syllabi/DataVisualizationSyllabus_HCS7100_AU24.pdf).
 
--   Taught: Autumn 2020, 2022, 2023, 2024
+-   Taught: Autumn 2020, 2022, 2023, 2024, 2025
 
 # Food and Nutritional Toxicology (FST 7620, 2 credits)
 
@@ -40,7 +40,7 @@ knitr::include_graphics("img/teaching/food-tox.jpeg")
 
 Basic principles of food and nutritional toxicology with primary emphasis on food components and food toxins. The course will cover an overview of absorption, metabolism and excretion of xenobiotics, allergenic and toxic constituents in plant, animal, marine and fungal origin, the role of diet and nutrients in mutagenesis and carcinogenesis, food processing induced toxins and the procedures, laws and regulation of safety assessment of foods including food additives, environmental contaminants, pesticides, antibiotic residues and dietary supplements. You can find a course syllabus [here](syllabi/FoodTox_Syllabus2023.pdf).
 
--   Taught: Spring 2019, 2021, 2023, (2025)
+-   Taught: Spring 2019, 2021, 2023
 -   From 2021 - present, co-instructed with Morgan (Cichon) Jablonka (Abbott Nutrition)
 
 # Phytochemicals and Human Health: Crops to the Clinic (HCS/FST/HN 7830, 3 credits)

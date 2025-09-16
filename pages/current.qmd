@@ -4,36 +4,6 @@ title: "Current lab members"
 
 # Graduate students
 
-## Maria Sholola
-
-::: grid
-::: g-col-6
-```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Maria Sholola"}
-knitr::include_graphics("img/people/maria.jpg")
-```
-:::
-
-::: g-col-6
-**Degree**: Ph.D.
-
-**Program:** Food Science and Technology
-
-**Years in the lab**: 2020 - present
-
-**Education:**  
-
--   B.S. Chemistry, Loyola University (Chicago, IL)
-
-**Research focus:** Understanding absorption, metabolism, and bioactivity of tomato and soy phytochemicals
-
-**Non-work interests:** dancing (urban, Afrobeats, and more recently ballet), running and biking scenic routes (hasn’t found one that tops Chicago’s lakefront trail yet), and traveling
-
-**Hometown:** Chicago, IL, USA
-
-**Contact:** sholola dot 1 at osu dot edu
-:::
-:::
-
 ## Daniel Quiroz Moreno
 
 ::: grid
@@ -53,6 +23,7 @@ knitr::include_graphics("img/people/daniel-quiroz.jpg")
 **Education:**  
 
 -   B.S. Biotechnology, Ikiam University (Tena, Ecuador)
+-   M.S. Horticulture and Crop Science, The Ohio State University (Columbus, OH)
 
 **Research focus:** Multi-omic integration for crop nutritional improvement, with a focus on developing informatic tools
 
@@ -150,6 +121,7 @@ knitr::include_graphics("img/people/lydia.png")
 **Education:**  
 
 -   B.S. Biology, minor in English Language and Literature, University of Western Ontario (London, Ontario, Canada)
+-   M.S. Horticulture and Crop Science, The Ohio State University (Columbus, OH)
 
 **Research focus:** Apple improvement using genomics, metabolomics, and sensory science
 
@@ -162,6 +134,101 @@ knitr::include_graphics("img/people/lydia.png")
 :::
 :::
 
+## Mia Scott
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Mia Scott"}
+knitr::include_graphics("img/people/mia.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2025 - present
+
+**Education:**  
+
+-   B.S. Biological Engineering, The Ohio State University
+
+**Research Focus**: leveraging multi-omic technologies for crop quality improvement
+
+**Non-work interests**:  tennis, biking, craft beer and wine , and live music
+
+**Hometown**: Downers Grove, IL, USA
+
+**Contact:** scott dot 2293 at osu dot edu
+
+:::
+:::
+
+## Ebony Thornton
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Ebony Thornton"}
+knitr::include_graphics("img/people/ebony.jpg")
+```
+:::
+
+::: g-col-6
+
+**Degree**: Ph.D.
+
+**Program:** Food Science and Technology
+
+**Years in the lab**: 2025 - present
+
+**Education:**  
+
+-   B.S. Chemistry, South Carolina State University (Orangeburg, SC)
+-   M.S. Food and Nutritional Sciences, North Carolina Agricultural and Technical State University (Greensboro, NC)
+
+**Research focus:** Research focus: Analyzing beneficial health compounds in fruit and vegetable crops through metabolomics
+
+**Non-work interests:** Non-work interests: Trail-ride line dancing, Latin dancing (salsa, bachata, merengue, and more), and eating delicious food
+
+**Hometown:** Hometown: Sumter, SC, USA
+
+**Contact:** thornton dot 589 at osu dot edu
+
+:::
+:::
+
+
+
+# Research staff
+
+## Maria Sholola, Ph.D.
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Maria Sholola"}
+knitr::include_graphics("img/people/maria.jpg")
+```
+:::
+
+::: g-col-6
+
+**Years in the lab**: 2020 - present
+
+**Education:**  
+
+-   B.S. Chemistry, Loyola University (Chicago, IL)
+-   Ph.D. Food Science and Technology, The Ohio State University (Columbus, OH)
+
+**Research focus:** Understanding absorption, metabolism, and bioactivity of tomato and soy phytochemicals
+
+**Non-work interests:** dancing (urban, Afrobeats, and more recently ballet), running and biking scenic routes (hasn’t found one that tops Chicago’s lakefront trail yet), and traveling
+
+**Hometown:** Chicago, IL, USA
+
+**Contact:** sholola dot 1 at osu dot edu
+:::
+:::
 
 # Undergraduate students
 ## Bryce Reiter

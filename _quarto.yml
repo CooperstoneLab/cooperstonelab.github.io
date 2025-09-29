@@ -9,6 +9,7 @@ website:
   favicon: "img/spectra-plus.png"
   site-url: https://www.cooperstonelab.com
   back-to-top-navigation: true
+  google-analytics: "G-071X0V5P5X"
   navbar:
     logo: "img/spectra-plus.png"
     left:

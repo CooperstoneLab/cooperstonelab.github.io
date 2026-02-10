@@ -6,6 +6,42 @@ title: "Lab alumni"
 
 ## Ph.D.
 
+## Daniel Quiroz Moreno
+
+::: grid
+::: g-col-6
+```{r echo = FALSE, out.width="70%", fig.align='center', fig.alt="A picture of Daniel Quiroz-Moreno"}
+knitr::include_graphics("img/people/daniel-quiroz.jpg")
+```
+:::
+
+::: g-col-6
+**Degree**: Ph.D.
+
+**Program:** Horticulture and Crop Science
+
+**Years in the lab**: 2021 - 2025
+
+**Education:**  
+
+-   B.S. Biotechnology, Ikiam University (Tena, Ecuador)
+-   M.S. Horticulture and Crop Science, The Ohio State University (Columbus, OH)
+
+**Research focus:** Multi-omic integration for crop nutritional improvement, with a focus on developing informatic tools
+
+**Non-work interests:** photography, mountain biking
+
+**Hometown:** Riobamba, Ecuador
+
+**Contact:** quirozmoreno dot 1 at osu dot edu
+
+**Personal website:** [https://danielquiroz97.gitlab.io](https://danielquiroz97.gitlab.io)
+
+**Post-lab activities:** Daniel is currently a Field Service Engineer with Agilent Technologies.
+
+:::
+:::
+
 ### Maria Sholola, Ph.D.
 
 ::: grid
@@ -33,6 +69,10 @@ knitr::include_graphics("img/people/maria.jpg")
 **Hometown:** Chicago, IL, USA
 
 **Contact:** sholola dot 1 at osu dot edu
+
+**Post-lab activities:** Maria is currently a Fulbright scholar conducting research in South Africa at 
+the Cape Peninsula University of Technology
+
 :::
 :::
 

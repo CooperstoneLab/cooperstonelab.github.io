@@ -18,7 +18,7 @@ knitr::include_graphics("img/people/jess.jpg")
 
 **Hometown:** Westbury, NY, USA
 
-**Non-work interests:** gardening, making wheel thrown pottery, NY Times games, Geoguessr, pizza
+**Non-work interests:** gardening, making wheel thrown pottery, sewing, NY Times games, Geoguessr, pizza
 
 **Contact:** cooperstone dot 1 at osu dot edu
 :::
@@ -28,4 +28,3 @@ knitr::include_graphics("img/people/jess.jpg")
 
 A full list of publications can be found [here](https://scholar.google.com/citations?user=d-FkQNQAAAAJ&hl=en).
 
-Click [here](cv/JLCooperstone_CV_20240215.pdf) for a full CV though it's might be a little bit out of date.

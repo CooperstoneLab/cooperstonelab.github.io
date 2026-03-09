@@ -65,7 +65,7 @@ website:
   # footer
   page-footer:
     border: true
-    left: "Created with RStudio and [Quarto](https://quarto.org/) <br> © Jessica Cooperstone, 2024, License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) <br> [Want to make a website like this one?](https://osu-codeclub.github.io/#category=website)"
+    left: "Created with RStudio and [Quarto](https://quarto.org/) <br> © Jessica Cooperstone, 2026, License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) <br> [Want to make a website like this one?](https://osu-codeclub.github.io/#category=website)"
     right:
       - icon: github
         href: https://github.com/CooperstoneLab/cooperstonelab.github.io
@@ -78,4 +78,3 @@ format:
 
 resources:
  - CNAME
-

@@ -6,7 +6,7 @@ title: "Lab alumni"
 
 ## Ph.D.
 
-## Daniel Quiroz Moreno
+### Daniel Quiroz Moreno
 
 ::: grid
 ::: g-col-6
@@ -258,7 +258,7 @@ knitr::include_graphics("img/people/mallory.jpg")
 
 
 
-# Visitng scientists
+# Visiting scientists
 
 ## Victoria Hermes de Vargas
 

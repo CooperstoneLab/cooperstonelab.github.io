@@ -131,9 +131,6 @@ knitr::include_graphics("img/people/mia.jpg")
 :::
 
 
-
-
-
 # Undergraduate students
 ## Bryce Reiter
 
